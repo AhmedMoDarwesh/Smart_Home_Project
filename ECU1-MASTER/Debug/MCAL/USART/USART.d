@@ -1,0 +1,9 @@
+MCAL/USART/USART.o MCAL/USART/USART.o: ../MCAL/USART/USART.c \
+  ../MCAL/USART/USART.h ../MCAL/USART/../../BIT_MATH.h \
+  ../MCAL/USART/../../STD_Types.h
+
+../MCAL/USART/USART.h:
+
+../MCAL/USART/../../BIT_MATH.h:
+
+../MCAL/USART/../../STD_Types.h:
